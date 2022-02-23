@@ -9,9 +9,9 @@ The app takes two inputs:-\
 
 And gives output as how many hours you would have to work to purchase the item.
 
-**Things to learn from this Project:-**
-(i) How to structure IOS Project. In this case, I have used MVVC(Model-View-ViewController) architecture paattern.
-(ii) How to create Modified Text Fields and to play with its settings.
+**Things to learn from this Project:-**\
+(i) How to structure IOS Project. In this case, I have used MVVC(Model-View-ViewController) architecture paattern.\
+(ii) How to create Modified Text Fields and to play with its settings.\
 (iii) How to create Test File for Debugging.
 
 In addition to these, the Logic and UI may vary from one app to another.
