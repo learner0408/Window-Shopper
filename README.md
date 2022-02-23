@@ -3,8 +3,8 @@ This is a beginner-cool project.
 
 The Window-Shopper App tells you how many hours you have to work to purchase certain item.
 
-The app takes two inputs:-
-(i) Cost of the item you want to purchase
+The app takes two inputs:-\
+(i) Cost of the item you want to purchase\
 (ii) Your wage per hour
 
 And gives output as how many hours you would have to work to purchase the item.
